@@ -1,0 +1,83 @@
+Termos e condições de uso
+
+Estes Termos e Condições de Uso (ou, simplesmente, “Termo”) regulam o modo de funcionamento, os termos e as condições aplicáveis ao uso do aplicativo Dealwish (“Aplicativo”). O Aplicativo é operado por DEALWISH LTDA., inscrita no CNPJ/MF sob o n° 99.999.999/0001-99, com sede na Rua X, 99, 00.000-00, Cidade/SP, Brasil (“DEALWISH”).
+
+Leia este Termo com atenção para compreendê-lo bem antes de utilizar o Aplicativo. Ao se cadastrar você manifesta sua concordância. Uma vez aceito, o Termo vale como qualquer contrato escrito e assinado por você. Caso não concorde com todas as disposições deste Termo, basta não confirmar seu cadastro. Você reconhece que, neste caso, não será possível acessar ou utilizar plenamente o Aplicativo.
+
+1. O APLICATIVO
+
+O Aplicativo oferece uma maneira conveniente para receber ofertas de um desejo de comprar, permitindo escolha do vendedor e realizar a compra através de link disponibilizado pelo mesmo. O link é inteiramente de responsabilidade do vendedor.
+
+O Aplicativo não tem custo adicional aos usuários, funcionando apenas como um serviço para conectar os usuários com os vendedores disponíveis, que não possuem relação com o DEALWISH.
+
+2. OBRIGAÇÕES
+
+Sem prejuízo das demais obrigações previstas neste Termo, o DEALWISH compromete-se a:
+
+Disponibilizar informações sobre os vendedores, conforme fornecido por eles;
+
+Disponibilizar informações corretas e atualizadas aos vendedores, conforme fornecidas pelo usuário;
+
+Prestar suporte online através de email em info@dealwish.com.br.
+
+Sem prejuízo das demais obrigações previstas neste Termo, você compromete-se a:
+
+Fornecer informações corretas, atuais e completas durante seu uso do Aplicativo;
+
+Manter-se atualizado com o disposto neste Termo e na Política de Privacidade.
+
+Fica desde logo esclarecido, declarando-se o usuário ciente de que o serviço oferecido pela DEALWISH se relaciona apenas à disponibilização de uma plataforma para conectar aos vendedores, toda a relação de compra, bem como pagamentos, entrega, suporte e demais assuntos relacionados à transação são de responsabilidade integral do vendedor, a quem deverão ser direcionados quaisquer reclamações.
+
+A DEALWISH não se responsabiliza pela capacidade técnica do usuário de utilizar o Aplicativo. A compatibilidade do Aplicativo com o seu dispositivo é puramente de responsabilidade do usuário, assim como a conexão à internet. A DEALWISH reserva o direito de, por consequência da evolução e aprimoramento do Aplicativo, alterar os requisitos de funcionamento a seu exclusivo e razoável critério.
+
+Para utilização do Aplicativo, será necessário que o usuário faça login utilizando alguns dados pessoais, incluindo nome e CPF. O usuário estará sujeito a este Termo e a nossa Política de Privacidade, disponível em www.dealwish.com.br
+
+A criação do usuário e senha da conta de acesso é de sua inteira responsabilidade, e você entende que os dados de acesso ao Aplicativo são pessoais e não podem ser compartilhados com terceiros, sendo você inteira e exclusivamente responsável por todo e qualquer uso da sua conta.
+
+PODEMOS SUSPENDER, ENCERRAR OU EXCLUIR SUA CONTA E BLOQUEAR SEU USO DO APLICATIVO SE RAZOAVELMENTE ENTENDERMOS QUE HÁ MOTIVO PARA TANTO, como, por exemplo, o desrespeito a este Termo. Caso isto aconteça, você será notificado a respeito da medida e sua motivação.
+
+3. PRAZO E EXTINÇÃO
+
+Este Termo é válido e produz plenos efeitos até sua extinção, observada a sobrevivência das disposições sobre propriedade intelectual, garantias e limitação de responsabilidades, conforme disposto neste Termo.
+
+O usuário pode rescindir este Termo a qualquer momento solicitando o cancelamento de sua conta através de email em info@dealwish.com.br.
+
+A DEALWISH pode rescindir este Termo a qualquer momento e independentemente de notificação prévia, sem que seja devido qualquer pagamento ou indenização ao usuário, nas seguintes hipóteses: (a) caso o usuário não cumpra qualquer de suas obrigações estipuladas na cláusula 2.2 deste Termo, viole direito de propriedade intelectual da DEALWISH conforme disposto na cláusula 5, ou leis e regulamentos aplicáveis; (b) se razoavelmente e de boa-fé acreditarmos que a rescisão é medida necessária para proteger a segurança ou a propriedade dos funcionários da DEALWISH, dos revendedores ou de terceiros, ou para prevenir fraudes ou falhas de segurança; (c) no caso de ações ou omissões imputáveis ao usuário que prejudiquem a reputação ou a imagem da DEALWISH; e (d) no caso de encerramento do funcionamento Aplicativo.
+
+4. LICENÇA DE USO LIMITADA E PROPRIEDADE INTELECTUAL
+
+O Aplicativo está disponível para os usuários apenas em conformidade com o Termo e com a legislação aplicável. Ao concordar com o Termo, você receberá uma licença de uso LIMITADA, pessoal, não exclusiva, intransferível e revogável para instalar o Aplicativo em seu smartphone.
+
+Você reconhece todos os direitos de propriedade intelectual da DEALWISH, incluindo mas não limitado a marcas, direitos sobre software, direitos autorais e demais direitos relativos a criações (“Material Protegido”).
+
+Você se compromete a não realizar qualquer ato que possa ser entendido como indicativo de que possui direito, a qualquer título, sobre a titularidade, total ou parcial, do Material Protegido, inclusive decompilação do Aplicativo e acesso ao código fonte, e se obriga a fazer uso do Material Protegido apenas da maneira e com as finalidades especificadas neste Termo.
+
+Você entende que uso do Aplicativo fora dos termos deste Termo pode configurar crime, conforme disposto no Título III do Código Penal, no Título V da Lei 9279/96 – Lei de Propriedade Industrial, e no Capítulo V da Lei 9609/98 – Lei de Software.
+
+Os dispositivos desta cláusula sobrevirão à rescisão, por qualquer motivo, do Termo, permanecendo em efeito e vinculando as partes.
+
+5. RESPONSABILIDADE
+
+VOCÊ RESPONDE INTEGRALMENTE POR QUALQUER PERDA OU DANO CAUSADO À DEALWISH OU A TERCEIRO RESULTANTE DE FATO, ATO OU OMISSÃO IMPUTÁVEL A VOCÊ OU POR QUALQUER VIOLAÇÃO POR VOCÊ DE QUALQUER DAS DISPOSIÇÕES DESTE TERMO.
+
+A DEALWISH NÃO RESPONDE POR PERDA OU DANO CAUSADO A VOCÊ OU TERCEIRO RESULTANTE DE FATO A ELA NÃO IMPUTÁVEL OU RESULTANTE DE MAU USO POR VOCÊ OU POR TERCEIRO, OU DE FALHA TÉCNICA OU MAU FUNCIONAMENTO DO SMARTPHONE OU OUTRO DISPOSITIVO USADO POR VOCÊ.
+
+A DEALWISH não responde por qualquer atraso ou falha resultante de causas fora do seu controle, incluindo qualquer falha em executar este Termo devido a circunstâncias imprevisíveis ou a causas além do controle da DEALWISH, tais como caso fortuito ou de força maior.
+
+Você concorda em defender, indenizar e isentar a DEALWISH contra qualquer perda, reivindicação, obrigação, ação judicial ou outra despesa, incluindo honorários advocatícios, decorrentes do seu uso do Aplicativo ou de falsa, imprecisa ou inadequada representação feita por você como parte deste Termo ou de qualquer outra maneira.
+
+O Aplicativo é fornecido a você da forma “como está”, sem garantias ou representações de qualquer tipo, expressas ou implícitas. A DEALWISH reserva o direito de alterar o Aplicativo, no todo ou em parte, a seu exclusivo e razoável critério. A DEALWISH se isenta de qualquer responsabilidade nos limites da lei aplicável, exceto conforme disposto neste Termo ou em outro acordo entre as partes.
+
+Os dispositivos desta cláusula sobrevirão à rescisão, por qualquer motivo, do Termo, permanecendo em efeito e vinculando as partes.
+
+6. DISPOSIÇÕES GERAIS
+
+Podemos, a qualquer tempo, atualizar e de qualquer forma alterar este Termo, com pleno efeito a partir da publicação da versão atualizada do Termo no Aplicativo. Se as atualizações ou modificações a este Termo forem substanciais, você será notificado, e, neste caso, você deverá ler, compreender e manifestar concordância com a nova versão do Termo para continuar utilizando o Aplicativo. Tais alterações serão efetivas após a sua aceitação, e não terão efeitos retroativos. Se quaisquer alterações futuras ao Termo forem inaceitáveis para você ou fizerem com que não esteja mais de acordo ou em conformidade com este Termo, você deverá interromper qualquer uso do Aplicativo, sendo que poderemos suspender ou encerrar sua conta caso você não concorde ou não esteja em conformidade com a nova versão do Aplicativo.
+
+Se qualquer cláusula ou item deste Termo for considerado ilegal, inválido ou inaplicável, no seu todo ou em parte, isso não afetará a legalidade, validade e eficácia das demais cláusulas do Termo, que continuarão plenamente válidas e eficazes.
+
+Caso tenha dúvida a respeito deste Termo, entre em contato por e-mail em info@dealwish.com.br.
+
+Esse Termo rege-se e deve ser interpretado de acordo com as leis do Brasil.
+
+As partes elegem o Foro Central da Comarca de São Paulo – SP, com expressa renúncia a qualquer outro dentro dos limite do Código de Defesa do Consumidor, por mais privilegiado que seja, para dirimir quaisquer dúvidas ou controvérsias oriundas deste Termo.
